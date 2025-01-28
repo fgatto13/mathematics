@@ -1,2 +1,2 @@
 # mathematics
-This repo has been created to track my studies in mathematical analysis, using the absolute fundamentals of Python's language, to explore theorems, conjectures and problems by myself to have a better understanding of what I'm studying.
+This repo has been created to track my studies in mathematical analysis, using the absolute fundamentals of Python's language, to explore theorems, conjectures and problems by myself to have a better understanding of what I'm studying, with the end goal of not only have a solid grip on mathematics fundamentals, but also to improve and dive deeper into the usage of Python as a tool for not only math studies, but also to understand how to apply both iterative and recursive approaches to such problems.
